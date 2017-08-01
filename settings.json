@@ -8,14 +8,10 @@
     "comments": false,
     "strings": true
   },
-  "emmet.useNewEmmet": true,
   "emmet.syntaxProfiles": {
     "jsx": {
-      "self_closing_tag": true
+      "self_closing_tag": "xhtml"
     }
-  },
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
   },
   "files.eol": "\n",
   "files.defaultLanguage": "js",
