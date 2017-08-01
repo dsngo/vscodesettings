@@ -8,11 +8,6 @@
     "comments": false,
     "strings": true
   },
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    { "language": "html", "autoFix": true }
-  ],
   "emmet.useNewEmmet": true,
   "emmet.syntaxProfiles": {
     "jsx": {
@@ -25,10 +20,6 @@
   "files.eol": "\n",
   "files.defaultLanguage": "js",
   "files.insertFinalNewline": true,
-  "files.associations": {
-    "*.js": "javascript",
-    "*.html": "html"
-  },
   "javascript.validate.enable": false,
   "open-in-browser.default": "chrome",
   "prettier.eslintIntegration": true,
