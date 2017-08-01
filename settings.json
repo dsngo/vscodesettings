@@ -1,0 +1,40 @@
+{
+  "editor.snippetSuggestions": "top",
+  "editor.autoIndent": true,
+  "editor.renderIndentGuides": true,
+  "editor.tabSize": 2,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    { "language": "html", "autoFix": true }
+  ],
+  "emmet.useNewEmmet": true,
+  "emmet.syntaxProfiles": {
+    "jsx": {
+      "self_closing_tag": true
+    }
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "files.eol": "\n",
+  "files.defaultLanguage": "js",
+  "files.insertFinalNewline": true,
+  "files.associations": {
+    "*.js": "javascript",
+    "*.html": "html"
+  },
+  "javascript.validate.enable": false,
+  "open-in-browser.default": "chrome",
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "One Monokai"
+}
